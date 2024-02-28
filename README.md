@@ -18,9 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sammyy99.sammyy99&"  />
-</div>
 
 ###
 
