@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Full Stack Developer from Meerut<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Mobile development<br>- ⚡ Currently working in React</p>
+<p align="left">I'm Full Stack Developer from Meerut<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning next js <br>- ⚡ Currently working in React</p>
 
 ###
 
